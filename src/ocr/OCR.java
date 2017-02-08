@@ -5,6 +5,7 @@
  */
 package ocr;
 
+//import com.asprise.ocr.Ocr;
 import com.asprise.ocr.Ocr;
 import java.io.File;
 
